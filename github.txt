@@ -1,0 +1,13 @@
+organization: your account
+Repository: where exactly we put our code
+Commit: to make a copy of your code
+Stage: preparing for commit
+
+Advantage of Github:
+->To save and store our code and projects.
+->To track the History changes of the Repository
+->
+
+
+git init
+git add
