@@ -10,4 +10,17 @@ Advantage of Github:
 
 
 git init
-git add
+git add index.html
+git add Assets/
+git status
+git commit -m 'first'
+git log
+git branch -M main : rename the branch to main
+git remote add origin (link)
+git remote show origin
+git push -u origin main
+
+
+Readme: where to write project description
+upstream: online Repository
+Every project have two reositories: online and offline
