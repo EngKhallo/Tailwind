@@ -24,3 +24,4 @@ git push -u origin main
 Readme: where to write project description
 upstream: online Repository
 Every project have two reositories: online and offline
+sinking = means push
